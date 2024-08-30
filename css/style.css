@@ -1,0 +1,51 @@
+#banner {
+    color: black;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    line-height: 1.0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.banner p {
+    padding-bottom: auto;
+    background-image: url(/Volumes/Seagate/cheatsheet/resources/imgages/kawaii-flowers);
+
+}
+body {
+    background-color: gainsboro;
+}
+h2 {
+    text-align: center;
+    color:darkviolet;
+    font-size: 25px;
+}
+footer {
+    text-align: center;
+    padding: auto;
+}
+
+footer p {
+    font-style: italic;
+}
+
+table {
+    width: 500px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.ta {
+    width: 600px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 1.5px;
+    font-family: monospace;
+}
+th {
+    background-color: lightpink;
+}
