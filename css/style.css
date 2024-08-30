@@ -49,3 +49,7 @@ th, td {
 th {
     background-color: lightpink;
 }
+
+.button {
+    padding-bottom: 40px;
+}
