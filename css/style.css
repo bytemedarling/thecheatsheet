@@ -5,6 +5,7 @@
     margin-right: auto;
     line-height: 1.0;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
 }
 .banner p {
     padding-bottom: auto;
@@ -51,5 +52,5 @@ th {
 }
 
 .button {
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
